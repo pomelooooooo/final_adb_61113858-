@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"5ea26c5e9d232c3b4529de16"},"name":"Clothing"},{"_id":{"$oid":"5ea26c909d232c3b4529de27"},"name":"Bags"},{"_id":{"$oid":"5ea26cda9d232c3b4529de33"},"name":"Shoes"},{"_id":{"$oid":"5ea26cff9d232c3b4529de3d"},"name":"Accessories"},{"_id":{"$oid":"5ea26d5b9d232c3b4529de57"},"name":"Watch"}]
